@@ -19,6 +19,7 @@ body{
     position: relative;
     width: 40rem;
     height: 40rem;
+    margin-bottom: 20rem;
     background: #0588e4 url(../img/earth.png);
     background-size: cover;
     border-radius: 50%;
@@ -39,7 +40,7 @@ body{
     border-radius: 50%;
     animation: animate 18s linear infinite;
     z-index: 1;
-    box-shadow: 1rem 20rem 10rem rgba(0, 0, 0, .7) ;
+    box-shadow: 0 35rem 10rem rgba(0, 0, 0, .7) ;
 }
 .earth:active{
     transform: scale(5);
