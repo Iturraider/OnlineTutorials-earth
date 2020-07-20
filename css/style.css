@@ -39,6 +39,7 @@ body{
     border-radius: 50%;
     animation: animate 18s linear infinite;
     z-index: 1;
+    box-shadow: 1rem 20rem 10rem rgba(0, 0, 0, .7) ;
 }
 .earth:active{
     transform: scale(5);
